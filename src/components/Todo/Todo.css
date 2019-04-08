@@ -1,0 +1,6 @@
+:local(.done) {
+  text-decoration: line-through
+}
+:todo(.active) {
+  text-decoration: none
+}
